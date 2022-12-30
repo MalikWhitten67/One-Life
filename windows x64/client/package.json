@@ -1,0 +1,10 @@
+{
+    "name":"onelife",
+    "title":"Onelife Client",
+    "window":{
+        "max_width":300,
+        "max_height":300,
+        "min_width":300,
+        "min_height":300
+    }
+}
